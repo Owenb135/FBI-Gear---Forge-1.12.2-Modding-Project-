@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fbigear",
+  "name": "FBI Gear",
+  "description": "This is my first mod, it should pair well with MrCrayfish's Gun Mod, you can download it here: https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "https://github.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-",
+  "authorList": ["Owen"],
+  "credits": "The Forge and FML guys, and Block bench for texture editing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

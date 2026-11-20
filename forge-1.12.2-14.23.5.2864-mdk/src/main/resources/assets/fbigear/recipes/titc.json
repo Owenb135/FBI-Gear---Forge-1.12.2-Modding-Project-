@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "T",
+    "S"
+  ],
+  "key": {
+    "T": { "item": "fbigear:tit" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "fbigear:titc",
+    "count": 1
+  }
+}
