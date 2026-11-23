@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TST",
+    "TTT"
+  ],
+  "key": {
+    "T": { "item": "fbigear:driediron" },
+    "S": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "item": "fbigear:night_vision_glasses",
+    "count": 1
+  }
+}
