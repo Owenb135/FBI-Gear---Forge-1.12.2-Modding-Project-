@@ -35,7 +35,7 @@ jobs:
         run: chmod +x ./gradlew
 
       - name: Build mod with Gradle
-        run: ./gradlew build
+        run: ./gradlew build -Dorg.gradle.java.home="$JAVA_HOME"
 
       - name: Upload built JAR artifact
         uses: actions/upload-artifact@v4
