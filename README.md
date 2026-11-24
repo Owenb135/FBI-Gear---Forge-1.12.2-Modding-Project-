@@ -1,33 +1,50 @@
+
 # FBI Gear
 
-FBI Gear is a Minecraft Forge mod for Minecraft 1.12.2. It adds titanium
-materials and tools, dyed iron, and night-vision glasses.
+FBI gear, my very first mod, is a police themed mod including many diffrent items and features. The mod pairs well with the MrCrayfish Gun Mod.
 
-## Requirements
 
-- Minecraft 1.12.2
-- Minecraft Forge 14.23.5.2864
-- Java 8 to run the game and build the mod
+## Features
 
-## Build
+- Night Vision Glasses
+- Titanium Sword
+- Titanium Axe
+- Dyed Iron
+- Etc
 
-Run the Gradle wrapper from the project directory:
 
-```sh
-./gradlew build
-```
+## Crafting
 
-The reobfuscated mod JAR is created in `build/libs/`. Install it by copying the
-JAR into the `mods` directory of a Minecraft 1.12.2 Forge installation.
+### Titanium Sword
+![App Screenshot](https://raw.githubusercontent.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-/refs/heads/main/ext-images/fbigear_titc.png)
 
-## Development
+### Titanium Axe
+![App Screenshot](https://raw.githubusercontent.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-/refs/heads/main/ext-images/fbigear_titp.png)
 
-Import the project as a Gradle project in IntelliJ IDEA, use the included Gradle
-wrapper, and select a Java 8 JDK for Gradle and the Minecraft run configuration.
-Launch the development client with:
+### Night Vision Glasses
+![App Screenshot](https://raw.githubusercontent.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-/refs/heads/main/ext-images/fbigear_night_vision_glasses.png)
 
-```sh
-./gradlew runClient
-```
+### Titanium
+![App Screenshot](https://raw.githubusercontent.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-/refs/heads/main/ext-images/fbigear_tit.png)
 
-The mod currently has no required third-party mod dependencies.
+### Dyed Iron
+![App Screenshot](https://raw.githubusercontent.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-/refs/heads/main/ext-images/fbigear_driediron.png)
+
+
+## Authors
+
+- [@owenb135](https://www.github.com/owenb135)
+
+
+## License
+
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Go to Github to find out some ways to help.
+
+
