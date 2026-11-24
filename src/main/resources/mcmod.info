@@ -3,7 +3,7 @@
   "modid": "fbigear",
   "name": "FBI Gear",
   "description": "This is my first mod, it should pair well with MrCrayfish's Gun Mod, you can download it here: https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod",
-  "version": "0.0.1",
+  "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://github.com/Owenb135/FBI-Gear---Forge-1.12.2-Modding-Project-",
   "updateUrl": "",
