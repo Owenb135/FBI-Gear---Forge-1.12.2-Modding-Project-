@@ -1,0 +1,7 @@
+/.grade
+/build
+/.idea
+/run
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/modules
